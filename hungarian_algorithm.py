@@ -1,3 +1,6 @@
+'''
+Only 1 worker and 1 job
+'''
 import os
 import numpy as np
 import cv2

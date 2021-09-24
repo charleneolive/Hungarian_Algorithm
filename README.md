@@ -12,7 +12,7 @@ python hungarian_algorithm.py
 
 We refer mostly to this [site](https://things-about-r.tumblr.com/post/36087795708/matching-clustering-solutions-using-the-hungarian) (hungarian algorithm written in R) for implementation details. 
 
-`hungarian_algorithm.ipynb` is a jupyter notebook with the same content as `hungarian_algorithm.py`,
+`hungarian_algorithm.ipynb` is a jupyter notebook with the same content as `hungarian_algorithm.py`, `hungarian_algorithm_relaxed.ipynb` is a jupyter notebook which allows for varying number of clusters for the two segmentations, i.e. relaxed constaints. 
 
 ## References
 
