@@ -5,8 +5,7 @@ This is hungarian algorithm applied on k-means clustering (or you can replace wi
 The image for Poggies is taken here [site](https://makeameme.org/meme/lachlanpoggies-me-i).
 
 To run the file, simply
-```
-bash
+```bash
 python hungarian_algorithm.py
 
 ```
